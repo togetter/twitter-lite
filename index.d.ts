@@ -45,7 +45,7 @@ export default class Twitter {
   /**
    * Parse the JSON from a Response object and add the Headers under `_headers`
    */
-  private static _handleResponse(response: Response): Promise<object>;
+  private static _handleResponse(response: unknown): Promise<object>;
 
   getBearerToken(): Promise<BearerResponse>;
 
