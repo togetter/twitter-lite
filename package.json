@@ -10,8 +10,8 @@
     "stream.js",
     "index.d.ts"
   ],
-  "repository": "kb10uy/twitter-lite",
-  "homepage": "https://github.com/kb 10uy/twitter-lite",
+  "repository": "togetter/twitter-lite",
+  "homepage": "https://github.com/togetter/twitter-lite",
   "author": "Peter Piekarczyk <peter@peterp.me>",
   "contributors": [
     "Dan Dascalescu (https://github.com/dandv)",
